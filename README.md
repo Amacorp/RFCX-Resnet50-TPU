@@ -1,0 +1,6 @@
+# RFCX-Resnet50-TPU
+
+Rainforest Connection Species Audio Detection
+Automate the detection of bird and frog species in a tropical soundscape
+
+https://www.kaggle.com/c/rfcx-species-audio-detection/
